@@ -2,7 +2,7 @@ import requests
 import csv
 import time
 
-GITHUB_TOKEN = "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"  # Replace with your own GitHub token
+GITHUB_TOKEN = "you_did_not_expect_to_find_my_token_did_you?"  # Replace with your own GitHub token
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def check_rate_limit():
